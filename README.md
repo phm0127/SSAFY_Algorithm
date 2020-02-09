@@ -4,7 +4,7 @@ SSAFY 3기 알고리즘 공부
 Language : Java 
 
 
-참고 알고리즘 사이트
+참고 알고리즘 문제 사이트
 
 백준 (https://www.acmicpc.net/)
 
